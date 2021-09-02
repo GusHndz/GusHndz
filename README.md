@@ -1,6 +1,7 @@
 ![img](https://imgur.com/O5MMCNN.png)
 
-- 👋 Hola, soy Gustavo Hernandez Parra Ingeniero en Tecnologías de la Información y comunicación
+### Ingeniero en Tecnologías de la Información y comunicación
+
 - 👀 Me gusta siempre estar informado de nuevas tecnologias y me encanta pasar tiempo con mi familia.
 - 🌱 Actualmente me encuentro desarrollando en Android Kotlin y conozco poco de Swift. 
      Empecé con Xamarin en iOS y de ahi obtuve una certificacion de Android por NextU. 
